@@ -1,15 +1,15 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto Gestão da Inovação
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
+Este documento apresenta uma solução de software para o projeto Gestão da Inovação, solicitado pelo cliente Banco do Brasil, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+*  Possibilitar a gestão do processo de inovação, sobretudo no que se relaciona
+à captação, à seleção e ao desenvolvimento de ideias em ambiente colaborativo, junto ao
+público interno do Banco do Brasil
+* gestão do portfólio de ideias para subsidiar a priorização de projetos de inovação. 
 
 ## Problema
 
